@@ -17,3 +17,5 @@ Imagine **LangChain** as a beginner cook following a simple recipe. The newbie g
 In essence, **LangGraph** is a step up from **LangChain**. While **LangChain** does the job, **LangGraph** will take your projects to a whole new level. Honestly? It's the tool you didn't know you needed until you see what it can do.
 
 Now, let's dive into a simple example that will clear things up while taking us deeper into **LangGraph**. We'll create a simple chatbot that will respond directly to user messages. Although simple, it will serve the purpose to illustrate the core concepts of building with LangGraph.
+
+For the complete example and code, please refer to the Jupyter notebook in our [GitHub repository](./What-is-LangGraph-and-Can-It-Help-You-Build-LLM-Agents.ipynb).
