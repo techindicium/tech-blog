@@ -4,7 +4,7 @@ This directory contains posts and resources related to Generative AI.
 
 ## Posts
 
-- [2024-06-14 Introduction to LangChain](yyyy-mm-dd-post-title-1/README.md)
+- [2024-06-14 What is LangGraph and can it help you build LLM Agents?](2024-06-14-What-is-LangGraph-and-can-it-help-you-build-LLM-Agents/README.md)
 
 Each post is accompanied by relevant code samples and assets.
 
