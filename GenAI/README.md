@@ -5,6 +5,7 @@ This directory contains posts and resources related to Generative AI.
 ## Posts
 
 - [2024-06-14 What is LangGraph and can it help you build LLM Agents?](2024-06-14-What-is-LangGraph-and-can-it-help-you-build-LLM-Agents/README.md)
+- [2024-07-03 How to build a multi-agent content development team using LangGraph](2024-07-03-How-to-build-a-multi-agent-content-development-team-using-LangGraph/README.md)
 
 Each post is accompanied by relevant code samples and assets.
 
